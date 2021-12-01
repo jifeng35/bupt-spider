@@ -53,5 +53,6 @@ else:
     for i in res:
         writer.writerow(i)
     f.close()
+
 # //*[@id="vsb_content"]/div/p[9]/span[1]/span
 # //*[@id="vsb_content"]/div/p[13]/span
